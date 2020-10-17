@@ -4,8 +4,6 @@
 
 I'm Chompu, a Software Developer 🚀 from Thailand.
 
-<br />
-
 <a href="https://twitter.com/chomchompu">
   <img align="left" alt="Chompu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
