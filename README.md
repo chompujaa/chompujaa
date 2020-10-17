@@ -2,6 +2,10 @@
 
 <br />
 
+I'm Chompu, a Software Developer 🚀 from Thailand.
+
+<br />
+
 <a href="https://twitter.com/chomchompu">
   <img align="left" alt="Chompu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,8 +14,6 @@
 </a>
 
 <br />
-
-I'm Chompu, a Software Developer 🚀 from Thailand.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
