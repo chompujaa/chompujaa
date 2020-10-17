@@ -1,4 +1,7 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'am Chompu 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello
+
+<br />
+
 <a href="https://twitter.com/chomchompu">
   <img align="left" alt="Chompu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -8,7 +11,7 @@
 
 <br />
 
-Hi, I'm Chompu, a Software Developer 🚀 from Thailand.
+I'm Chompu, a Software Developer 🚀 from Thailand.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
